@@ -80,3 +80,5 @@ KPI Cards:
 
 #### Closing
 This project demonstrates the application of data analytics and visualization in uncovering valuable insights from real estate data. Power BI proved to be a powerful tool for transforming raw property data into actionable intelligence, empowering better decision-making for stakeholders.
+
+### Thank You
