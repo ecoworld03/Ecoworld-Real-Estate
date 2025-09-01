@@ -17,6 +17,9 @@ Year built
 Property grade and type
 Location (city)
 
+[Project 1 Real Estate 1.xlsx](https://github.com/user-attachments/files/22084307/Project.1.Real.Estate.1.xlsx)
+
+
 ### Objectives
 
 The project was guided by the following objectives:
@@ -42,6 +45,11 @@ Derived Columns:
 - Year Column for combining all years in a single table
 - Data Modelling: Consolidated the four yearly datasets (2013–2016) into one unified model.
 
+![Table View](https://github.com/user-attachments/assets/dccc7ab0-e14e-41c5-9df3-4eea70bc0559)
+
+![Model View](https://github.com/user-attachments/assets/cd41375e-2095-431c-ad12-4525950636eb)
+
+
 ###  Data Analysis / Visualization
 The Power BI dashboard was designed with an executive summary style, highlighting key metrics and insights:
 KPI Cards:
@@ -53,6 +61,9 @@ KPI Cards:
 - Donut Chart: Sales Price contribution by year → 2015 led with ~2B in sales.
 - Bar Chart: Average Sales Price by City → Brentwood (₦305K).
 - Bar Chart: Top 5 Property Grades → Grade C dominates (~17K units).
+
+  ![Real Estate 2](https://github.com/user-attachments/assets/150b31d1-691a-4ff6-85f2-409c60dfb971)
+
 
 ### Interpretation / Insight
 1. Market Growth: Sales rose consistently from 2013 to 2015, showing market expansion.
